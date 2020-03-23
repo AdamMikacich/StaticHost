@@ -1,0 +1,22 @@
+{
+  "name": "statichost",
+  "version": "1.0.0",
+  "description": "Simple static content host in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamMikacich/StaticHost.git"
+  },
+  "author": "Adam Mikacich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamMikacich/StaticHost/issues"
+  },
+  "homepage": "https://github.com/AdamMikacich/StaticHost#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
